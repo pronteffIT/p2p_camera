@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<config><section id="1"><title>Information Delivery</title><link id="1"><title>Communication Center</title><url>/messagecenter/MCHome</url><url-param>IBD,Role,NavInd,RR_Num,OffNum,account_id</url-param><hover-text>Messageson system outages, early closings, and product specific news.</hover-text><type>inline</type><popup-params/><frm-action>POST</frm-action></link></section></config>

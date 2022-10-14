@@ -1,0 +1,163 @@
+{
+  "Plates": {
+    "$": {
+      "version": "2.0",
+      "xmlns": "http://www.std-cgi.com/ver20/XMLSchema"
+    },
+    "Plate": [
+      {
+        "captureTime": ["20210929T111546+0530"],
+        "country": ["NON"],
+        "direction": ["reverse"],
+        "laneNo": ["1"],
+        "matchingResult": ["otherlist"],
+        "picName": ["202109291115468930"],
+        "plateNumber": ["GOVER"]
+      },
+      {
+        "captureTime": ["20210929T111550+0530"],
+        "country": ["NON"],
+        "direction": ["forward"],
+        "laneNo": ["1"],
+        "matchingResult": ["otherlist"],
+        "picName": ["202109291115506970"],
+        "plateNumber": ["ALUSEONLY"]
+      },
+      {
+        "captureTime": ["20210929T111552+0530"],
+        "country": ["NON"],
+        "direction": ["unknown"],
+        "laneNo": ["1"],
+        "matchingResult": ["otherlist"],
+        "picName": ["202109291115521640"],
+        "plateNumber": ["NMENT"]
+      },
+      {
+        "captureTime": ["20210929T111604+0530"],
+        "country": ["NON"],
+        "direction": ["unknown"],
+        "laneNo": ["1"],
+        "matchingResult": ["otherlist"],
+        "picName": ["202109291116048470"],
+        "plateNumber": ["UOE0FFI"]
+      },
+      {
+        "captureTime": ["20210929T111604+0530"],
+        "country": ["DEU"],
+        "direction": ["forward"],
+        "laneNo": ["1"],
+        "matchingResult": ["otherlist"],
+        "picName": ["202109291116043830"],
+        "plateNumber": ["CALUSE"]
+      },
+      {
+        "captureTime": ["20210929T111606+0530"],
+        "country": ["NON"],
+        "direction": ["reverse"],
+        "laneNo": ["1"],
+        "matchingResult": ["otherlist"],
+        "picName": ["202109291116065130"],
+        "plateNumber": ["FFRFFA"]
+      },
+      {
+        "captureTime": ["20210929T111904+0530"],
+        "country": ["NON"],
+        "direction": ["unknown"],
+        "laneNo": ["1"],
+        "matchingResult": ["otherlist"],
+        "picName": ["202109291119044980"],
+        "plateNumber": ["J7"]
+      },
+      {
+        "captureTime": ["20210929T112221+0530"],
+        "country": ["NON"],
+        "direction": ["unknown"],
+        "laneNo": ["1"],
+        "matchingResult": ["otherlist"],
+        "picName": ["202109291122217670"],
+        "plateNumber": ["7"]
+      },
+      {
+        "captureTime": ["20210929T112638+0530"],
+        "country": ["NON"],
+        "direction": ["unknown"],
+        "laneNo": ["1"],
+        "matchingResult": ["otherlist"],
+        "picName": ["202109291126388950"],
+        "plateNumber": ["52555"]
+      },
+      {
+        "captureTime": ["20210929T113617+0530"],
+        "country": ["NON"],
+        "direction": ["reverse"],
+        "laneNo": ["1"],
+        "matchingResult": ["otherlist"],
+        "picName": ["202109291136173910"],
+        "plateNumber": ["H0N1HEN1R"]
+      },
+      {
+        "captureTime": ["20210929T113618+0530"],
+        "country": ["NON"],
+        "direction": ["forward"],
+        "laneNo": ["1"],
+        "matchingResult": ["otherlist"],
+        "picName": ["202109291136185270"],
+        "plateNumber": ["DEPARTME"]
+      },
+      {
+        "captureTime": ["20210929T113619+0530"],
+        "country": ["NON"],
+        "direction": ["unknown"],
+        "laneNo": ["1"],
+        "matchingResult": ["otherlist"],
+        "picName": ["202109291136193270"],
+        "plateNumber": ["SCC"]
+      },
+      {
+        "captureTime": ["20210929T113621+0530"],
+        "country": ["NON"],
+        "direction": ["unknown"],
+        "laneNo": ["1"],
+        "matchingResult": ["otherlist"],
+        "picName": ["202109291136213980"],
+        "plateNumber": ["SCCC"]
+      },
+      {
+        "captureTime": ["20210929T113622+0530"],
+        "country": ["NON"],
+        "direction": ["unknown"],
+        "laneNo": ["1"],
+        "matchingResult": ["otherlist"],
+        "picName": ["202109291136222630"],
+        "plateNumber": ["OEPAR1ENT"]
+      },
+      {
+        "captureTime": ["20210929T113621+0530"],
+        "country": ["NON"],
+        "direction": ["forward"],
+        "laneNo": ["1"],
+        "matchingResult": ["otherlist"],
+        "picName": ["202109291136210630"],
+        "plateNumber": ["DEPA1ENT"]
+      },
+      {
+        "captureTime": ["20210929T115756+0530"],
+        "country": ["NON"],
+        "direction": ["unknown"],
+        "laneNo": ["1"],
+        "matchingResult": ["otherlist"],
+        "picName": ["202109291157569910"],
+        "plateNumber": ["XXXXX"]
+      },
+      {
+        "captureTime": ["20210929T120518+0530"],
+        "country": ["NON"],
+        "direction": ["unknown"],
+        "laneNo": ["1"],
+        "matchingResult": ["otherlist"],
+        "picName": ["202109291205185670"],
+        "plateNumber": ["T"]
+      }
+    ]
+  }
+}
